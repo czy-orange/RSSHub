@@ -53251,7 +53251,8 @@ export default {
       "/blog-zh": {
         "path": "/blog-zh",
         "categories": [
-          "programming"
+          "programming",
+          "popular"
         ],
         "example": "/huggingface/blog-zh",
         "parameters": {},
