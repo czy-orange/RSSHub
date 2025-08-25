@@ -30574,8 +30574,7 @@ export default {
       "/blog": {
         "path": "/blog",
         "categories": [
-          "new-media",
-          "popular"
+          "new-media"
         ],
         "example": "/deepmind/blog",
         "parameters": {},
@@ -117201,7 +117200,8 @@ export default {
       "/hots": {
         "path": "/hots",
         "categories": [
-          "finance"
+          "finance",
+          "popular"
         ],
         "example": "/xueqiu/hots",
         "parameters": {},
